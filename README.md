@@ -1,2 +1,2 @@
-#  I'm João Pedro , Devoloper System {gifs/wave}
+#  I'm João Pedro , **Devoloper System**
 
